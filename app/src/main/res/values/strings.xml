@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorldNews</string>
+    <string name="no_internet">NO INTERNET CONNECTION</string>
+    <string name="no_news">NO NEWS FOUND</string>
+    <string name="bbc_news">BBC News</string>
+    <string name="_2016_08_29">2016-08-29</string>
+    <string name="south_africa_bus_crash_kills_at_least_19_children">South Africa bus crash \'kills at least 19 children\'</string>
+</resources>
